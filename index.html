@@ -700,8 +700,29 @@
    		<h1 class="title">Contact</h1>
       <!-- Start Contact Form -->
 	   
+
+	   <form action="https://formspree.io/xgenneqn"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
+</form>
+	   
+	   
+	   
+	   
 		
-	<form id="contact-form" method="post" action="https://formspree.io/xgenneqn" role="form">
+	<form id="contact-form" method="POST" action="https://formspree.io/xgenneqn">
 
                         <div class="messages"></div>
 
@@ -744,7 +765,7 @@
                                     </div>
                                 </div>
                                 <div class="col-md-12">
-                                    <button type="submit" class="btn btn-success btn-send main-btn center-block">Send Message</button>
+                                    <button type="submit">Send Message</button>
                                 </div>
                             </div>
                         </div>
