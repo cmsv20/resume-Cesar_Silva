@@ -701,17 +701,26 @@
       <!-- Start Contact Form -->
 	   
 <div class="container">
-		<div class="form__top">
-			<h2>Formulario <span>Registro</span></h2>
-		</div>		
-		<form class="form__reg" action="https://formspree.io/xgenneqn">
-			<input class="input" type="text" placeholder="&#128100;  Name" required autofocus>
-            <input class="input" type="email" placeholder="&#9993;  Email" required>
-            <input class="input" type="text" placeholder="&#128222;  Phone" required>
-            <div class="btn__form">
-            	<input class="btn__submit" type="submit" value="Send Message">	
+		
+		<form action="https://formspree.io/xgenneqn"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
+</form>
+            		
             </div>
-		</form>
+		
 	</div>
 	   
 	   
