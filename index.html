@@ -703,14 +703,21 @@
 
 <form id="my-form"
   action="https://formspree.io/xgenneqn"
-  method="POST"
->
+  method="POST">
   <label>Email:</label>
   <input type="email" name="email" />
-  <label>Message:</label>
-  <input type="text" name="message" />
-  <button id="my-form-button">Submit</button>
-  <p id="my-form-status"></p>
+  <div class="row">
+	  <div class="col-md-12 col-xs-12 input-group rzm_msz_box">
+                              <div class="form-group">
+	 			 <label>Message:</label>
+          			 <input type="text" name="message" />
+			     </div>
+          </div>
+	   <div class="col-md-12">
+          <button id="my-form-button">Submit</button>
+          <p id="my-form-status"></p>
+        </div>
+   </div>
 </form>
 	   
 	   
