@@ -568,7 +568,7 @@ span.rzm_importo:hover,.rzm_timeline-panel-ul span.importo:hover{
 .rzm_btn_block{
 	padding:20px 0px;
 }
-.main-btn{ background:#545F66 !important; border-color:#545F66; color:#fff;min-width:160px;min-height:50px;font-family: 'Lato', sans-serif;font-size:18px !important; font-weight:900 !important;}
+.main-btn{ background:#545F66 !important; border-color:#545F66 !important; color:#fff;min-width:160px;min-height:50px;font-family: 'Lato', sans-serif;font-size:18px !important; font-weight:900 !important;}
 .main-btn:hover{ background::#545f66;color:#fff !important;}
 /*========================================
  	====End Contact Area ====  
