@@ -390,8 +390,8 @@ left:25%;
 	text-align: center;
 }
 	.navbar-inverse {
-    background-color: #0ABFBF !important;
-    border-color: #0ABFBF !important;
+    background-color: #545f66 !important;
+    border-color: #545f66 !important;
 }
 	.navbar-inverse .navbar-nav > li > a {
     color: #fff !important;
