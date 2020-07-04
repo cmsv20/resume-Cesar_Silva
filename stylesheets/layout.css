@@ -166,7 +166,7 @@ section{
  font-size:16px;
 }
 .rzm_profile_nav .primary li a:hover{
- color:#0abfbf;
+ color:#545f66;
 }
 .go_to_top i{
 	font-size: 13px;
@@ -226,13 +226,13 @@ h1.title {
 	margin-bottom:31px;
 }
 .rzm_progress_bar .progress-bar{
-	background:#0abfbf;
+	background:#545f66;
 }
 .rzm_perchantage{
 	margin-top:-30px;
 	font-size:16px;
 	font-weight:400;
-	color:#0ABFBF;
+	color:#545f66;
 }
 .progress-bar {
 	-webkit-transition:all 0.8s ease-in-out;
@@ -389,7 +389,7 @@ span.rzm_importo{
     font-size: 18px;
 }
 span.rzm_importo:hover,.rzm_timeline-panel-ul span.importo:hover{
-	color:#0abfbf !important;
+	color:#545f66 !important;
 	cursor:pointer;
 }
 
@@ -400,11 +400,11 @@ span.rzm_importo:hover,.rzm_timeline-panel-ul span.importo:hover{
     font-size: 15px;
 }
 .active li .rzm_importo{
-	color:#0abfbf;
+	color:#545f66;
 	
 }
 #rzm_timeline .rzm_timeline-badge.active_box{
-	background-color:#0abfbf;
+	background-color:#545f66;
 }
 /*========================================
  	====End experience Timeline ====  
