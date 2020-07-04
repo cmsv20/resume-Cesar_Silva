@@ -41,8 +41,8 @@ ul, ol { margin-bottom:0px; }
 ul li { margin-bottom:15px; }
 /*===== End Lists =====*/
 
-a { color:#00bbcc; }
-a:focus, a:hover, a.active {color:#00bbcc;  }
+a { color:#545F66; }
+a:focus, a:hover, a.active {color:#545F66;  }
 section{
 }
 ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
