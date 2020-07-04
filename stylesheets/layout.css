@@ -140,7 +140,7 @@ section{
 }
 
 .rzm_main_menu{
-	background:#f2f2f2;
+	background:#373737;
 	margin-top:-80px;
 	max-width:200px;
 	margin-left:25px;
@@ -154,7 +154,7 @@ section{
  
 }
 .rzm_profile_nav .primary li {
- color:#373737;
+ color:#f2f2f2;
  text-align:left;
  height:20px;
 }
